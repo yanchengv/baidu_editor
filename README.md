@@ -1,7 +1,5 @@
 # BaiduUeditor
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/baidu_ueditor`. To experiment with that code, run `bin/console` for an interactive prompt.
-
 Ueditor is a WYSIWYG editor adapt to Chinese habits, this gem is a easy way to integrate with Rails4, Rails5
 
 ## Installation
